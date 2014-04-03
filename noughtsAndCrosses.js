@@ -1,3 +1,5 @@
+"use strict";
+
 goog.provide("project.game");
 
 goog.require("goog.array");
