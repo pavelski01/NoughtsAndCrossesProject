@@ -1,6 +1,6 @@
-noughts_and_crosses
+NoughtsNCrossesProject
 ===================
 
-simple game
+Description: Simple game
 
 Needs: Google Closure Library
