@@ -1,5 +1,5 @@
 NoughtsNCrossesProject
-===================
+======================
 
 Description: Simple game
 
