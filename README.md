@@ -1,5 +1,5 @@
 NoughtsAndCrossesProject
 ========================
 
-Description: Simple game
-Needs: Google Closure Library
+Description: Simple game  
+Needs: Google Closure Library  
